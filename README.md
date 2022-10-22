@@ -13,9 +13,8 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+### Watch my contribution graph get eaten by the snake 🐍
+![snake gif](https://github.com/krrishexe/krrishexe/blob/output/github-contribution-grid-snake.gif)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=krrishexe&icon=0&color=11)](https://visitcount.itsvg.in)
