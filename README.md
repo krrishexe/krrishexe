@@ -13,8 +13,17 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-### Watch my contribution graph get eaten by the snake 🐍
-![snake gif](https://github.com/krrishexe/krrishexe/blob/output/github-contribution-grid-snake.gif)
+<!-- ### Watch my contribution graph get eaten by the snake 🐍
+![snake gif](https://github.com/krrishexe/krrishexe/blob/output/github-contribution-grid-snake.gif) -->
+
+<div align="center">
+  <h2>🐍 Snake eating my contribution 🐍</h2>
+  <br>
+  <img alt="snake eating my contribution" src="https://github.com/krrishexe/krrishexe/blob/output/github-contribution-grid-snake.svg">
+  <br>
+  <br>
+  <br>
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=krrishexe&icon=0&color=11)](https://visitcount.itsvg.in)
