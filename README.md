@@ -26,4 +26,5 @@
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=krrishexe&icon=0&color=11)](https://visitcount.itsvg.in)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krrishexe&label=Profile%20views&color=0e75b6&style=flat" alt="krrishexe" /></p>
