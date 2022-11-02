@@ -1,7 +1,7 @@
 ### Hi Everyone , I'm Krish 👋
 
-# 💫 About Me:
-🔰A passionate Full-Stack web developer,  and a student.🔭 I’m currently working on a React based News App .<br>🤝 I’m looking to collaborate with anyone working with ReactJS.<br>🌱 I’m currently learning Figma , mySQL and ReactJS<br><br>⚡ Fun fact :- I absolutely hate JAVA :)
+# -> About Me:
+-> A passionate Full-Stack web developer,  and a student.🔭 I’m currently working on a React based News App .<br> -> I’m looking to collaborate with anyone working with ReactJS.<br> -> I’m currently learning Figma , mySQL and ReactJS<br><br> -> Fun fact :- I absolutely hate JAVA :)
 
 
 # 💻 Tech Stack:
