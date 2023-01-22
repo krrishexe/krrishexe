@@ -1,7 +1,7 @@
 ### Hi Everyone , I'm Krish 👋
 <!-- 
 # -> About Me: -->
--> A passionate Full-Stack web developer and a learner.🔭 I’m currently working on a React based News App .<br> -> I’m looking to collaborate with anyone working with ReactJS.<br> -> I’m currently learning Figma ,MongoDB and ExpressJS. <br><br>
+-> A passionate Full-Stack web developer and a learner.🔭 I’m currently working on a React based News App .<br> -> I’m looking to collaborate with anyone working with ReactJS.<br> -> I’m currently learning Figma ,Flutter and ExpressJS. <br><br>
 
 [![@krrishexe's Holopin board](https://holopin.me/krrishexe)](https://holopin.io/@krrishexe)
 
