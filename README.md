@@ -1,5 +1,6 @@
- <picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/26bd/512.webp" type="image/webp"> Hi Everyone , I'm Krish 
+ 
+ Hi Everyone , I'm Krish <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/26bd/512.webp" type="image/webp"> 
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26bd/512.gif" alt="⚽" width="32" height="32">
 </picture>
 <!-- 
