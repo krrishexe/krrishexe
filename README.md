@@ -4,7 +4,7 @@
 # -> About Me: -->
 -> A passionate Full-Stack web developer and a learner.<br> -> I’m looking to collaborate with anyone working with ReactJS.<br> -> I’m currently learning WebGL , ThreeJS (for frontend) and GLSL . <br><br>
 
-[![@krrishexe's Holopin board](https://holopin.me/krrishexe)](https://holopin.io/@krrishexe)
+[![An image of @krrishexe's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/krrishexe)](https://holopin.io/@krrishexe)
 
 
 # 💻 Tech Stack:
